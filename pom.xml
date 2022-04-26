@@ -59,7 +59,7 @@
                         <assembleDirectory>target</assembleDirectory>
                         <programs>
                             <program>
-                                <mainClass>com.example.Main</mainClass>
+                                <mainClass>uz.Application</mainClass>
                                 <name>main</name>
                             </program>
                         </programs>
