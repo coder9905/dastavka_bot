@@ -60,7 +60,7 @@
                         <programs>
                             <program>
                                 <mainClass>uz.Application</mainClass>
-                                <name>main</name>
+                                <name>workerBot</name>
                             </program>
                         </programs>
                     </configuration>
