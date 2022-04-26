@@ -1,1 +1,1 @@
-worker: sh target/bin/lesson36
+worker: sh target/bin/dastavka_bot.jar
